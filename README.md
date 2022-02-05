@@ -15,12 +15,16 @@
  
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
-</p>
+  🦄 Linguagens: ⤵️
+   </p>
+   <strong>HTML, CSS, JavaScript.</strong>
 
+<p>
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code.</strong>
-</p>
+  💼 Ferramentas: ⤵️
+   </p>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="22px" width="100px">
+
 
 <p align="left">
   💌 Meus contatos: ⤵️
