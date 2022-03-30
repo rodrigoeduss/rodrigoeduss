@@ -6,8 +6,8 @@
 
   <ul> 
     <li> Desbravando o universo da tecnologia!!!</li>
-    <li> Estudante de programação no <strong>Code Club.</strong> </li>
-    <li> Desenvolvedor <strong>Front end.</strong></li>
+    <li> Estudante de programação!!!
+    <li> Desenvolvimento <strong>Front end.</strong></li>
   
   </ul>
 
