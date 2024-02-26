@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_1280.jpg">
+<img src="https://pixabay.com/pt/photos/x%C3%ADcara-de-caf%C3%A9-computador-port%C3%A1til-1280537/">
 
 <p align="left"> 
    
