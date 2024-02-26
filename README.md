@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/03/17/10/51/bulletin-board-3233653_960_720.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer ande cell phone">
+<img src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_1280.jpg">
 
 <p align="left"> 
    
